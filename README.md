@@ -15,8 +15,8 @@ MNIST            |  Celeb-A
 
 MNIST Original            |  MNIST Reconstruction
 :-------------------------:|:-------------------------: 
-
-![After epoch: 10](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/op-real/original_new_vae_50.png)  |  ![After epoch: 10](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/op-recons/reconstructed_new_vae50.png)
+:After first epoch:|
+![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/op-real/original_new_vae_50.png)  |  ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/op-recons/reconstructed_new_vae50.png)
 After epoch: 50
 ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/op-real/original_new_vae_50.png)  |  ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/op-recons/reconstructed_new_vae50.png)
 
