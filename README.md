@@ -9,7 +9,7 @@ An implementation of VAE-GAN, following the paper: [VAE/GAN](https://arxiv.org/a
 
 MNIST            |  Celeb-A
 :-------------------------:|:-------------------------: 
-![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/generations.gif)  |  ![]()
+![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/generations.gif)  |  ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/Celeb-A/generations.gif)
 
 ## Reconstructions
 * For MNIST dataset
