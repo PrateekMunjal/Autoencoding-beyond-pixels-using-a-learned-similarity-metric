@@ -12,12 +12,11 @@ MNIST            |  Celeb-A
 ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/generations.gif)  |  ![]()
 
 ## Reconstructions
-
+* At epoch: 1
 MNIST Original            |  MNIST Reconstruction
 :-------------------------:|:-------------------------: 
-:After first epoch:|
 ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/op-real/original_new_vae_50.png)  |  ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/op-recons/reconstructed_new_vae50.png)
-After epoch: 50
+* At epoch: 50
 ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/op-real/original_new_vae_50.png)  |  ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/MNIST/op-recons/reconstructed_new_vae50.png)
 
 Celeb-A Original            |  Celeb-A Reconstruction
