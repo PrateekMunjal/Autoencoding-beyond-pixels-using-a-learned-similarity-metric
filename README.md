@@ -29,7 +29,13 @@ MNIST            |  Celeb-A
   
   Celeb-A Original            |  Celeb-A Reconstruction
   :-------------------------:|:-------------------------: 
-  ![]()  |  ![]()
+  ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/Celeb-A/op-real/orig-img-0.png)  |  ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/Celeb-A/op-recons/recons-img-0.png)
+  
+    * **At epoch: 15**
+  
+  Celeb-A Original            |  Celeb-A Reconstruction
+  :-------------------------:|:-------------------------: 
+  ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/Celeb-A/op-real/orig-img-14.png)  |  ![](https://github.com/PrateekMunjal/VAE_GAN/blob/master/Celeb-A/op-recons/recons-img-14.png)
 
 
 
