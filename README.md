@@ -1,5 +1,5 @@
 # VAE/GAN
-A Tensorflow implementation of VAE-GAN, following the paper: [VAE/GAN](https://arxiv.org/abs/1512.09300). The encoder and decoder functions are implemented using fully strided convoluttional layers and transposed convolution layers respectively. The discriminator network has the same architecture as that of encoder with an additional last one layer of its output. As suggested by papers I have implemented Gaussian decoders and Gaussian prior.
+A Tensorflow implementation of VAE-GAN, following the paper: [VAE/GAN](https://arxiv.org/abs/1512.09300). The encoder and decoder functions are implemented using fully strided convoluttional layers and transposed convolution layers respectively. The discriminator network has the same architecture as that of encoder with an additional last one layer of its output. As suggested by authors I have implemented Gaussian decoders and Gaussian prior.
 
 ## Setup
 * Python 3.5+
@@ -15,7 +15,7 @@ Similarly, as the name suggests, file vae-gan_inference.py contains the code to 
 
 ## Usage
 ### Training a model
-
+NOTE: For celebA, make sure you have the downloaded dataset from [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and keep it in the current directory of project.
 ```
 python vae-gan.py
 ```
